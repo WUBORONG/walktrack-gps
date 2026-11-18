@@ -1,0 +1,1 @@
+{"name":"WalkTrack GPS 走路慢跑循跡","short_name":"WalkTrack","description":"走路慢跑 GPS 路線與運動紀錄","start_url":"./","scope":"./","display":"standalone","background_color":"#f3f7f5","theme_color":"#102b27","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
